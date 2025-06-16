@@ -7,7 +7,7 @@
 - **Phát nhạc offline:** Nghe các file nhạc lưu trữ cục bộ trong thư mục assets của ứng dụng bao gồm 20 bài hát có sẵn.
 - **Thêm nhạc dễ dàng:** Có thể thêm nhạc bằng file .mp3 dễ dàng qua Giao diện ứng dụng.
 - **Giao diện đẹp mắt:** Thiết kế trực quan, dễ sử dụng, phù hợp cho mọi lứa tuổi.
-- **Hiệu năng mượt mà:** Ứng dụng phản hồi nhanh, trải nghiệm ổn định.
+- **Hiệu năng mượt mà:** Ứng dụng phản hồi nhanh, trải nghiệm ổn định, hỗ trợ phát nhạc dưới nền.
 
 ## Hướng dẫn sử dụng
 1. Tải và cài đặt ứng dụng tại: [Download link](https://drive.google.com/file/d/1TMEjE9cmxwFPsXNLRLthTse2M4zbr0XY/view?usp=sharing)
